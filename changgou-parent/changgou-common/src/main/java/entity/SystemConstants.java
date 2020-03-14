@@ -1,4 +1,4 @@
-package com.changgou.entity;
+package entity;
 
 /**
  * 描述

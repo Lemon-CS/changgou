@@ -1,4 +1,4 @@
-package com.changgou.entity;
+package entity;
 
 import org.apache.http.Consts;
 import org.apache.http.HttpEntity;
@@ -24,6 +24,7 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+
 /*****
  * @Author: fangpeng
  * @Description: entity

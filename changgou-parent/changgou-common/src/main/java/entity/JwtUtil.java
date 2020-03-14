@@ -1,4 +1,4 @@
-package com.changgou.entity;
+package entity;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.JwtBuilder;

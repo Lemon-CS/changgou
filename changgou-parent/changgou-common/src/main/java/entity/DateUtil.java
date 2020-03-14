@@ -1,4 +1,4 @@
-package com.changgou.entity;
+package entity;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

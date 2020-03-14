@@ -1,4 +1,4 @@
-package com.changgou.entity;
+package entity;
 
 /****
  * @Author:www.itheima.com

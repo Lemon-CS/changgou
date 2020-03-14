@@ -1,11 +1,9 @@
-package com.changgou.framework.exception;
+package framework.exception;
 
-import com.changgou.entity.Result;
-import com.changgou.entity.StatusCode;
-import org.springframework.stereotype.Controller;
+import entity.Result;
+import entity.StatusCode;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
