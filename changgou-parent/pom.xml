@@ -7,7 +7,6 @@
     <groupId>com.changgou</groupId>
     <artifactId>changgou-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
-
     <modules>
         <module>changgou-common</module>
         <module>changgou-common-db</module>
@@ -16,18 +15,10 @@
         <module>changgou-service</module>
         <module>changgou-service-api</module>
         <module>changgou-web</module>
-        <module>changgou-common</module>
-        <module>changgou-service</module>
-        <module>changgou-service-api</module>
-        <module>changgou-web</module>
-        <module>changgou-eureka</module>
-        <module>changgou-common</module>
-        <module>changgou-common-db</module>
-        <module>changgou-service-goods-api</module>
     </modules>
     <packaging>pom</packaging>
     <description>
-        畅购商城父工程 统一版本的控制 所有的工程都应该继承父工程
+        父工程 统一版本的控制 所有的工程都应该继承父工程
     </description>
 
     <parent>
@@ -53,7 +44,6 @@
             <artifactId>jjwt</artifactId>
             <version>0.9.0</version>
         </dependency>
-
         <!--测试包-->
         <dependency>
             <groupId>org.springframework.boot</groupId>

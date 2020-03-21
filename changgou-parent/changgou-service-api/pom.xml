@@ -10,11 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>changgou-service-api</artifactId>
-
     <packaging>pom</packaging>
 
     <description>
-        通用的API(java bean/feign)的父工程
+        通用的API javean feign的父工程
     </description>
     <modules>
         <module>changgou-service-goods-api</module>
@@ -24,7 +23,6 @@
         <module>changgou-service-user-api</module>
         <module>changgou-service-order-api</module>
         <module>changgou-service-seckill-api</module>
-        <module>changgou-service-goods-api</module>
     </modules>
 
     <dependencies>

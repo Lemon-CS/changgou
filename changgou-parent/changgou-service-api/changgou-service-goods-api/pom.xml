@@ -11,5 +11,16 @@
 
     <artifactId>changgou-service-goods-api</artifactId>
 
+    <description>
+        商品微服务的POJO feign
+    </description>
+    <dependencies>
+        <dependency>
+            <groupId>com.changgou</groupId>
+            <artifactId>changgou-service-order-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 
 </project>

@@ -24,9 +24,8 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
-
 /*****
- * @Author: fangpeng
+ * @Author: www.itheima.com
  * @Description: entity
  ****/
 public class HttpClient {

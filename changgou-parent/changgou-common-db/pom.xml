@@ -11,10 +11,6 @@
 
     <artifactId>changgou-common-db</artifactId>
 
-    <description>
-        需要访问数据库的包依赖汇总
-    </description>
-
     <!--依赖-->
     <dependencies>
         <!--对changgou-common的依赖-->
